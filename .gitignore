@@ -1,0 +1,22 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+*.zip
+
+# Trained models / checkpoints
+outputs/models/
+*.pt
+*.pth
+*.ckpt
+
+# System / editor files
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+
+# Hugging Face cache
+.cache/

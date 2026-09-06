@@ -1,0 +1,14 @@
+# Install the CUDA-enabled PyTorch build separately, as documented in README.md.
+# Example used in this project:
+# python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.5
+Pillow>=10.4
+tqdm>=4.66
+huggingface_hub>=0.26
+datasets>=3.0
+jupyter>=1.1
+ipykernel>=6.29

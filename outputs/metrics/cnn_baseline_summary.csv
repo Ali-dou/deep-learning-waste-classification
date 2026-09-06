@@ -1,0 +1,2 @@
+model,trainable_parameters,best_validation_macro_f1,test_accuracy,test_macro_f1,best_epoch
+SimpleCNN,423175,0.5376311744989576,0.5062111801242236,0.44930800361319256,8
